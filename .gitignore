@@ -1,0 +1,22 @@
+# Virtual Environment folders
+venv/
+venv37/
+venv312/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data and model folders (optional but recommended)
+# It's good practice to not upload large datasets or trained models to Git.
+data/
+saved_models/
+
+# TensorBoard logs
+/src/ppo_highway_tensorboard/
+
+# VSCode settings
+.vscode/
+
+# macOS specific
+.DS_Store
