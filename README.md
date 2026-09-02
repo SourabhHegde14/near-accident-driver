@@ -14,9 +14,6 @@ This project investigates how a driving agent behaves in near-accident scenarios
 - **Reinforcement Learning:** [describe the RL algorithm used, e.g. PPO / DQN / actor-critic, and the reward formulation]
 - **Scenario Focus:** Near-accident / high-risk driving situations rather than standard lane-following or general driving
 
-## Results
-
-[Add key results/metrics from the inference report — e.g. success rate in avoiding collisions, comparison vs. baseline imitation-only or RL-only models, etc.]
 
 ## Repository Contents
 
